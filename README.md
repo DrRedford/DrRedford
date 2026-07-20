@@ -30,15 +30,13 @@ I'm building up my project experience and I'm actively looking to collaborate. I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
+<!--
 ## GitHub Stats
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=DrRedford&show_icons=true&theme=default&hide_border=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrRedford&layout=compact&hide_border=true" width="48%"/>
-
 </div>
+--->
 
 ## Connect With Me
 
